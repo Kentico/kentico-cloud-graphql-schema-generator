@@ -1,6 +1,6 @@
 {
   "name": "@kentico/kontent-schema-generator-graphql",
-  "version": "2.1.2-alpha.0",
+  "version": "2.1.2",
   "description": "GraphQL schema generator used to generate schema based on specified project.",
   "main": "_commonjs/index.js",
   "bin": {

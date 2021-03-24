@@ -1,6 +1,6 @@
 {
   "trackingHeader": {
     "header": "X-KC-SOURCE",
-    "value": "@kentico/kontent-schema-generator-graphql;2.1.2-alpha.0"
+    "value": "@kentico/kontent-schema-generator-graphql;2.1.2"
   }
 }
