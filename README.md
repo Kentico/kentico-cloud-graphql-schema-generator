@@ -1,10 +1,11 @@
 # Kentico Kontent GraphQL schema generator
 
-[![Build Status](https://api.travis-ci.com/Kentico/kontent-schema-generator-graphql.svg?branch=master)](https://travis-ci.com/Kentico/kontent-graphql-schema-generator)
+[![Build](https://github.com/Kentico/kontent-schema-generator-graphql/actions/workflows/build.yml/badge.svg)](https://github.com/Kentico/kontent-schema-generator-graphql/actions/workflows/build.yml)
 [![npm version](https://badge.fury.io/js/%40kentico%2Fkontent-schema-generator-graphql.svg)](https://badge.fury.io/js/%40kentico%2Fkontent-schema-generator-graphql)
-[![Maintainability](https://api.codeclimate.com/v1/badges/0f6d187a729e061ab12f/maintainability)](https://codeclimate.com/github/Kentico/kontent-schema-generator-graphql/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/0f6d187a729e061ab12f/test_coverage)](https://codeclimate.com/github/Kentico/kontent-schema-generator-graphql/test_coverage)
+[![codecov](https://codecov.io/gh/Kentico/kontent-schema-generator-graphql/branch/master/graph/badge.svg?token=Dl8u1wtJ0T)](https://codecov.io/gh/Kentico/kontent-schema-generator-graphql)
+
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ASK%20NOW-FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/tags/kentico-kontent)
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-FE7A16.svg?style=popout&logo=github)](https://github.com/Kentico/Home/discussions)
 
 [GraphQL schema](https://graphql.org/learn/schema/) generator is used to generate schema based on specified project.
 
